@@ -7,3 +7,4 @@ def verificaidade (idade):
         print('Maió')
 
 print(verificaidade(idade))
+print('NÃO SOBRA NADA PARA O BETA ITS OVEEEER!!!')
